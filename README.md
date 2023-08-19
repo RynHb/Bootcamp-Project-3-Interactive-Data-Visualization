@@ -43,7 +43,7 @@
 
 ### 1. (اسم الشكل) 📈
    
-(الصورة)
+![image](https://github.com/RynHb/Bootcamp-Project-3-Interactive-Data-Visualization/assets/62115163/726ff9bd-6853-4ab7-b230-c1ca072d6b37)
 
 ### بعض الأفكار من ( اسم الشكل ):
 -
